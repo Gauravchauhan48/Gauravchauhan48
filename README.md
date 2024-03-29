@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Chauhan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" width="400" alt="coding" src="[https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)"/>
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravchauhan48&label=Profile%20views&color=0e75b6&style=flat" alt="gauravchauhan48" /> </p>
 
