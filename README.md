@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-g-c.netlify.app/](https://portfolio-g-c.netlify.app/)
 
-- 💬 Ask me about **REACT, NODE, EXPRESS & MONGODB**
+- 💬 Ask me about **C++, DATASTRUCTURES, REACT, NODE, EXPRESS & MONGODB**
 
 - 📫 How to reach me **gauravchauhan045265@gmail.com**
 
