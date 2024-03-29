@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Chauhan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" width="400" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1Wuq31v9jHHJOffbBB6dML&ust=1711777859575000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj69szjmIUDFQAAAAAdAAAAABAE"/>
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravchauhan48&label=Profile%20views&color=0e75b6&style=flat" alt="gauravchauhan48" /> </p>
 
